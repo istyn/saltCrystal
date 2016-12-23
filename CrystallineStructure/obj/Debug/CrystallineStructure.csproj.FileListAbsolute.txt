@@ -1,6 +1,0 @@
-c:\users\isaac\documents\visual studio 2013\Projects\CrystallineStructure\CrystallineStructure\bin\Debug\CrystallineStructure.exe.config
-C:\Users\Isaac\documents\visual studio 2013\Projects\CrystallineStructure\CrystallineStructure\bin\Debug\CrystallineStructure.exe
-C:\Users\Isaac\documents\visual studio 2013\Projects\CrystallineStructure\CrystallineStructure\bin\Debug\CrystallineStructure.pdb
-C:\Users\Isaac\documents\visual studio 2013\Projects\CrystallineStructure\CrystallineStructure\obj\Debug\CrystallineStructure.csprojResolveAssemblyReference.cache
-C:\Users\Isaac\documents\visual studio 2013\Projects\CrystallineStructure\CrystallineStructure\obj\Debug\CrystallineStructure.exe
-C:\Users\Isaac\documents\visual studio 2013\Projects\CrystallineStructure\CrystallineStructure\obj\Debug\CrystallineStructure.pdb
